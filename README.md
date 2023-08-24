@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Prakhar Verma
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on 
+
+
+### Hi there! 👋
+I'm Prakhar Verma, a final year B.Tech CS student at GLA University, Mathura. I'm passionate about coding, problem-solving, and continuous learning.
+- 🖥️ Programming Languages: Java,C,php
+- 💡 Problem Solving, Data Structures & Algorithms
+- 🌐 Web Development, HTML, CSS, javascript, php, mysql
+- 🎮 Video Games, Anime
 - 📫 How to reach me prakhar.verma_cs20@gla.ac.in
 
 <!---
