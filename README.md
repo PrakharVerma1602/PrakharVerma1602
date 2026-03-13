@@ -4,7 +4,7 @@
 I'm Prakhar Verma, B.Tech CS graduate from GLA University, Mathura.Aspiring Data Analyst with hands-on experience in end-to-end data analysis using Python, SQL (MySQL), and Power BI. Skilled in data cleaning, EDA, dashboard creation, and transforming raw data into actionable business insights through clear reporting and visualization.coding, problem-solving, and continuous learning.
 - 🖥️ Skill Set:Python(Numpy ,Pandas ,Matplotlib ,Seaborn) , Dashboard Creation tools like powerbi ,Ms Excel for cleaning the raw data 
 - 💡 Business Problem Solving, mysql for getting useful insights 
-- 🎮 Video Games, Anime, Kickboxing ,Music
+- 🎮 Video Games, Anime, Boxing ,Music 
 - 📫 How to reach me: prakhar1602v@gmail.com
 
 <!---
